@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Hello GitHub</h1>
+        <p>This is my first website hosted on GitHub Pages.</p>
+        
+        <div class="card">
+            <h2>Success</h2>
+            <p>I successfully published my website on GitHub!</p>
+            <button id="myButton">Click Me</button>
+        </div>
+        
+        <footer>
+            <p>Made with love | 2026</p>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
